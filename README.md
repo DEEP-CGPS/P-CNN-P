@@ -5,7 +5,7 @@ If you find this code useful in your research, please consider citing:
 
 @article{pachon2022senpis,
   title={SeNPIS: Sequential Network Pruning by class-wise Importance Score},
-  author={Pach{\'o}n, C{\'e}sar G and Ballesteros, Dora M and Renza, Diego},
+  author={Pachon, Cesar G and Ballesteros, Dora M and Renza, Diego},
   journal={Applied Soft Computing},
   volume={129},
   pages={109558},
